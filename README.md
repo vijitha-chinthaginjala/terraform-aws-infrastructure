@@ -35,7 +35,7 @@ terraform plan
 terraform apply
 
 ## Project Structure
-.
+```
 ├── modules/
 │   ├── vpc/
 │   │   ├── main.tf
@@ -57,3 +57,4 @@ terraform apply
 │   └── production/
 │       └── main.tf
 └── README.md
+```
